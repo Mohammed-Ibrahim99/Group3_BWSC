@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name Espressif)(type Legacy)(uri "C:/Users/moaik/OneDrive - The University of Nottingham/University/Third Year/Group Project/PCB/kicad-libraries-main/libraries/Espressif.lib")(options "")(descr ""))
+  (lib (name EK-TM4C123GXL)(type Legacy)(uri "C:/Users/moaik/OneDrive - The University of Nottingham/University/Third Year/Group Project/PCB/Libraries/EK-TM4C123GXL/EK-TM4C123GXL.lib")(options "")(descr ""))
+  (lib (name SolarCarLibrary)(type Legacy)(uri ${KIPRJMOD}/SolarCarLibrary.lib)(options "")(descr ""))
+  (lib (name SolarCarDisplay-rescue)(type Legacy)(uri ${KIPRJMOD}/SolarCarDisplay-rescue.lib)(options "")(descr ""))
+  (lib (name TR10S3V3)(type Legacy)(uri "C:/Users/moaik/OneDrive - The University of Nottingham/University/Third_Year/Group Project/PCB/Libraries/LIB_GET/TR10S3V3/KiCad/TR10S3V3.lib")(options "")(descr ""))
+)

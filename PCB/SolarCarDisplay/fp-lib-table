@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name SolarCar)(type KiCad)(uri ${KIPRJMOD}/SolarCar.pretty)(options "")(descr ""))
+  (lib (name KiCad)(type KiCad)(uri "C:/Users/moaik/Downloads/schematic-symbol-and-pcb-footprint (4)/LIB_GET/TR10S3V3/KiCad")(options "")(descr ""))
+  (lib (name "2 Contact")(type KiCad)(uri "C:/Users/moaik/Downloads/2 Contact")(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri "C:/Users/moaik/Downloads/347930040 - 4 Contact/KiCAD/2022-02-15_18-11-50/footprints.pretty")(options "")(descr ""))
+  (lib (name "2 Contact Connector")(type KiCad)(uri "C:/Users/moaik/OneDrive - The University of Nottingham/University/Third_Year/Group Project/PCB/Libraries/2 Contact Connector")(options "")(descr ""))
+  (lib (name "CAN Connector")(type KiCad)(uri "C:/Users/moaik/OneDrive - The University of Nottingham/University/Third_Year/Group Project/PCB/Libraries/CAN Connector")(options "")(descr ""))
+  (lib (name INT070ATFT)(type KiCad)(uri "C:/Users/moaik/OneDrive - The University of Nottingham/University/Third_Year/Group Project/PCB/Libraries/LIB_GET/INT070ATFT/INT070ATFT")(options "")(descr ""))
+)
